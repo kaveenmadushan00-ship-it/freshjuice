@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>🍹Juice shop</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <header>
+            <nav class="navbar">
+                <a href="#" class="nav-logo">
+                    <img src="ChatGPT Image Jun 25, 2026, 01_49_32 PM.png" alt="Logo">
+                    
+                  <h1 class="logo-text">Fresh Juice</h1>
+                </a>
+                <ul class="nav-menu">
+                  <button id="menu-close-button" class="fas fa-times"></button>
+                  <li class="nev-item">
+                    <a href="#" class="nav-link">Home</a>
+                  </li>
+                   <li class="nev-item">
+                    <a href="#juices" class="nav-link">Juices</a>
+                  </li>
+                   <li class="nev-item">
+                    <a href="#" class="nav-link">Gallery</a>
+                  </li>
+                   <li class="nev-item">
+                    <a href="#" class="nav-link">About Us</a>
+                  </li> <li class="nev-item">
+                    <a href="#" class="nav-link">Contact</a>
+                  </li>
+                   <li class="nev-item">
+                    <a href="https://maps.app.goo.gl/kQdMrLPLGt3J4BaQA" target="blank" class="nav-link">Location</a>
+                  </li>
+                </ul>
+                <button id="menu-open-button" class="fas fa-bars"></button>
+
+            </nav>
+        </header>
+        <main>
+            <section class="home">
+                <div class="section">
+                    <div class="details">
+                        <h2 class="title">Best Juices</h2>
+                        <h3 class="subtitle">Refresh Your Day with Fresh & Natural Juices!</h3>
+                        <p class="description">Experience the taste of nature with our freshly made juices, crafted to refresh your body and brighten your day.</p>
+                        <div class="buttons">
+                            <a href="#" class="button order">Order Now</a>
+                            <a href="#" class="button contact">contact</a>
+                        </div>
+                    </div>
+                    <div class="hero-image-wrapper">
+                        <img src="ChatGPT Image Jun 25, 2026, 07_44_28 PM.png" alt="image"
+                    </div>
+                    
+                </div>
+            </section>
+            <section class="menu-section" id="menu">
+      
+        <div class="section-content">
+          <ul class="menu-list">
+            <li class="menu-item">
+              <img src="ChatGPT Image Jun 26, 2026, 06_21_13 PM.png" alt="Hot Beverages" class="menu-image" />
+              <div class="menu-details">
+                <h3 class="name">orange</h3>
+                
+              </div>
+            </li>
+            <li class="menu-item">
+              <img src="ChatGPT Image Jun 26, 2026, 07_05_07 PM.png" alt="Cold Beverages" class="menu-image" />
+              <div class="menu-details">
+                <h3 class="name">Avergadro</h3>
+                
+            </li>
+            <li class="menu-item">
+              <img src="ChatGPT Image Jun 26, 2026, 07_17_02 PM.png" alt="Refreshment" class="menu-image" />
+              <div class="menu-details">
+                <h3 class="name">watermelon</h3>
+                
+              </div>
+            </li>
+            <li class="menu-item">
+              <img src="ChatGPT Image Jun 26, 2026, 06_26_22 PM.png" alt="Special Combos" class="menu-image" />
+              <div class="menu-details">
+                <h3 class="name">Special Combos</h3>
+                <p class="text">Your favorite eating and drinking combations.</p>
+              </div>
+            </li>
+            <li class="menu-item">
+              <img src="ChatGPT Image Jun 26, 2026, 07_16_35 PM.png" alt="Dessert" class="menu-image" />
+              <div class="menu-details">
+                <h3 class="name">Dessert</h3>
+                <p class="text">Satiate your palate and take you on a culinary treat.</p>
+              </div>
+            </li>
+            <li class="menu-item">
+              <img src="ChatGPT Image Jun 26, 2026, 07_05_07 PM.png" alt="burger & French Fries" class="menu-image" />
+              <div class="menu-details">
+                <h3 class="name">Burger & French Fries</h3>
+                <p class="text">Quick bites to satisfy your small size hunger.</p>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </section>
+        </main>
+        </main>
+    </body>
+</html>
